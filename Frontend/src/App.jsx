@@ -26,7 +26,7 @@ console.log(findSum(arr));`;
     const reviewCode = async () => {
         setLoading(true);
         try {
-            const response = await axios.post("https://codecritic-backend.onrender.com", { code });
+            const response = await axios.post("https://codecritic-backend.onrender.com/ai/get-review", { code });
             setReview(response.data);
         } catch (error) {
             setReview("❌ Error fetching review. Please try again.");
