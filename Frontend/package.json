@@ -10,7 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@codemirror/lang-javascript": "^6.2.3",
     "@tailwindcss/vite": "^4.0.6",
+    "@uiw/codemirror-theme-dracula": "^4.23.8",
+    "@uiw/codemirror-theme-monokai": "^4.23.8",
+    "@uiw/react-codemirror": "^4.23.8",
     "axios": "^1.7.9",
     "prismjs": "^1.29.0",
     "react": "^19.0.0",
