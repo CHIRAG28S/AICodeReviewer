@@ -1,7 +1,7 @@
-# 🤖AI Code Reviewer
+# 🤖Code Critic (AI-CodeReviewer)
 
 ## 💡Overview
-AI Code Reviewer is a web-based application that allows users to write or paste their code and receive AI-generated reviews and suggestions. The application utilizes Google's Gemini API for AI-powered code analysis. The frontend is built with React and Tailwind CSS, while the backend is powered by Node.js and Express.
+Code Critic is a web-based application that allows users to write or paste their code and receive AI-generated reviews and suggestions. The application utilizes Google's Gemini API for AI-powered code analysis. The frontend is built with React and Tailwind CSS, while the backend is powered by Node.js and Express.
 
 ## 🚀Features
 - **Code Editor**: Users can write or paste code in a syntax-highlighted editor.
@@ -29,8 +29,8 @@ AI Code Reviewer is a web-based application that allows users to write or paste 
 ### Steps:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ai-code-reviewer.git
-   cd ai-code-reviewer
+   git clone https://github.com/yourusername/CodeCritic.git
+   cd CodeCritic
    ```
 2. Install dependencies:
    ```sh
